@@ -1,11 +1,7 @@
-- 👋 Hi, I’m @MuhFares
-- 👀 I’m interested in Data and Business analysis 
-- 🌱 I’m currently learning Paython
-- 💞️ I’m looking to collaborate on data analysis
+Data analyst proficient in SQL, Python, and Tableau.
+Strong project experience in data analysis using SQL and Python.
+Expertise in data visualization with Tableau and Excel.
+Skilled in extracting insights from complex datasets.
+Passionate about leveraging data for informed decision-making.
 - 📫 How to reach me ...
 - LinkedIn : https://www.linkedin.com/in/muhfares/
-
-<!---
-MuhFares/MuhFares is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
